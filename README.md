@@ -54,6 +54,7 @@ Now, we compile nms and roialign as explained in the installation section of [py
  | GTX 960M                | sm_50 |
  | GTX 1070                | sm_61 |
  | GTX 1080 (Ti), Titan XP | sm_61 |
+ | GTX 2080 (Ti)           | sm_75 |
 
 More details of the compute capability are shown in [NVIDIA](https://developer.nvidia.com/cuda-gpus)
 
